@@ -8,7 +8,6 @@ public class Album extends Musica {
         super(nome);
         this.anoGravacao = anoGravacao;
     }
-
     public int getAnoGravacao() {
         return anoGravacao;
     }

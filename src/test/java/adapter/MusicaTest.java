@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class MusicaTest {
-
     @Test
     void deveRetornarNotaMusicalLetra() {
         Musica musica = new Musica();
@@ -21,5 +20,4 @@ class MusicaTest {
 
         assertEquals("Ré", musica.getNotaTom());
     }
-
 }

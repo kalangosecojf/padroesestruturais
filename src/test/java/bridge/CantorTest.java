@@ -29,4 +29,5 @@ class CantorTest {
         cantor.setFormacao(formacao);
         assertEquals(1000.0f, cantor.calcularCache(), 3.0f);
     }
+
 }

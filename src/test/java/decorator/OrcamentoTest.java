@@ -114,5 +114,4 @@ class OrcamentoTest {
 
         assertEquals("Discotecagem/Aluguel de Som/Aluguel de Iluminacao/Mais Fotografo", orcamento.getComposicao());
     }
-
 }

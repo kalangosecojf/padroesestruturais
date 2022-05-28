@@ -47,4 +47,5 @@ class PlaylistTest {
             assertEquals("Playlist sem musica", e.getMessage());
         }
     }
+
 }

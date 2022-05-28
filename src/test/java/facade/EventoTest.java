@@ -36,4 +36,5 @@ class EventoTest {
 
         assertEquals(true, evento.acompanhar());
     }
+
 }

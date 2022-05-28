@@ -13,4 +13,5 @@ public class Fotos extends OrcamentoDecorator {
     public String getNomeComposicao() {
         return "Mais Fotografo";
     }
+
 }
